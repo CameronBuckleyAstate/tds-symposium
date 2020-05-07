@@ -1,7 +1,7 @@
 logo: tds # add logo name
 title: The Delta School Symposium
 description: > # this means to ignore newlines until "baseurl:"
-  High School 2020 Symposium
+  Make. Discover. Grow.
 permalink: ':title/'
 baseurl: "/tds-symposium" # the subpath of your site, e.g. /blog
 url: "https://cameronbuckleyastate.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ url: "https://cameronbuckleyastate.github.io" # the base hostname & protocol for
 # Banner settings
 video: HomePage.mp4 # add banner video. Add your video file to the folder video
 banner-title: The Delta School # add banner title
-banner-desc: Symposium 2020 # add banner description
+banner-desc: 2020 High School Symposium # add banner description
 
 # Author settings
 author-pic:  # your photo
@@ -21,14 +21,14 @@ website: https://www.thedeltaschool.org # you website
 
 # Social link
 google_url:    # add url link
-twitter_url:   # add url link
-instagram_url: # add url link
+twitter_url:  https://twitter.com/TheDeltaSchool  # add url link
+instagram_url: https://www.instagram.com/thedeltaschool # add url link
 pinterest_url: # add url link
 dribbble_url:  # add url link
-facebook_url:  # add url link
+facebook_url: https://www.facebook.com/thedeltaschool # add url link
 
 # Disqus
-discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
+discus_identifier: tds # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
