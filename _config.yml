@@ -1,25 +1,23 @@
 logo: # add logo name
-title: Bef - Enjoy Freedom
+title: The Delta School Symposium
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  High School 2020 Symposium
 permalink: ':title/'
 baseurl: "/tds-symposium" # the subpath of your site, e.g. /blog
 url: "https://cameronbuckleyastate.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+video: HomePage.mp4 # add banner video. Add your video file to the folder video
+banner-title: The Delta School # add banner title
+banner-desc: Symposium 2020 # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
+author-pic:  # your photo
 author-name: # your name
 about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+email: cameron.buckley@thedelatschool.org # your email
+phone:  # your pnone number
+website: https://www.thedeltaschool.org # you website
 
 # Social link
 google_url:    # add url link
