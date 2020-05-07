@@ -13,6 +13,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus orna
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus ornare lorem, vel aliquam diam scelerisque vestibulum. Aenean elit magna, porttitor et lacus ac, venenatis elementum tellus. Suspendisse volutpat leo non risus sagittis rhoncus. Aenean eu enim eleifend, congue elit sit amet, ullamcorper magna. Duis iaculis maximus purus, id finibus erat facilisis in. Duis dapibus et leo id maximus. Donec turpis elit, mattis a lorem vitae, egestas condimentum ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pretium lorem nec arcu rutrum, a pellentesque nunc viverra. Ut tellus libero, vehicula in fringilla ultrices, fermentum quis lectus. Donec vulputate cursus condimentum. Suspendisse non dapibus turpis.
 
+But I have to admit, tasks lists are my favorite:
+
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+~~this~~
+
+
+
+
 `code block here <span></span>`
 
 link here
@@ -21,9 +38,16 @@ http://github.com - automatic!
 
 
 image here
-![GitHub Logo](/assets/img/grow.jpg)
+![GitHub Logo](assets/img/grow.jpg)
 Format: ![Alt Text](url)
 
+image here
+![GitHub Logo](grow.jpg)
+Format: ![Alt Text](url)
+
+image here
+![GitHub Logo](img/grow.jpg)
+Format: ![Alt Text](url)
 *This text will be italic*
 _This will also be italic_
 
