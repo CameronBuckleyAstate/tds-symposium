@@ -11,10 +11,10 @@ This year Mr.Faulkner taught me the whole process of making pottery piece on a w
 
 ![Image of App](../assets/img/clinton/Pottery1.jpg)
 
-![Image of App](../assets/img/clinton/Pottery2.jpg)
+![Image of App](../assets/img/clinton/Pottery2.jpeg)
 
-![Image of App](../assets/img/clinton/Pottery3.jpg)
+![Image of App](../assets/img/clinton/Pottery3.jpeg)
 
-![Image of App](../assets/img/clinton/Pottery4.jpg)
+![Image of App](../assets/img/clinton/Pottery4.jpeg)
 
-![Image of App](../assets/img/clinton/Pottery5.jpg)
+![Image of App](../assets/img/clinton/Pottery5.jpeg)
