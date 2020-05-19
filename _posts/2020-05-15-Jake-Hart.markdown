@@ -1,26 +1,18 @@
 ---
 layout: post
-title: "Kiefer Stallings"
-img: kiefer/post-img.png # Add image post (optional)
+title: "Jake Hart"
+img: jake/podcast2.png # Add image post (optional)
 date: 2020-05-15 12:55:00 +0300
 description: # Add post description (optional)
-tag: [Educational, Basketball, Entrepeneurship]
+tag: [Podcasting, Science, Performance]
 ---
-# StartEd Up
-In this project I was supposed to make and publish an app for an event we were hosting. The app consisted of a schedule, overview, descriptions of the event, and photos and video of previous events similar. I chose to make an app because the previous semester I took the app design project. I used human centered design throughout this project by looking at how desirable certain features of my app were. This project can help me in the future if I ever decide to do any kinds of virtual design. In this project I mostly learned about designing apps, using specific color palettes, correct placement for pictures and text, and how to design certain features.
-
-![Image of App](../assets/img/kiefer/app1.png)
-
-![Image of App](../assets/img/kiefer/app2.png)
-
-# Basketball Turnrow
-In this turnrow I’ve been making weekly basketball videos for mainly the younger students at my school. I am the only one in this project, so I record, edit, and voice over all the videos myself. With that I have learned how to record, edit, and voice over videos for this project. I really like filming the videos, so that could come in handy if I decide to be a filmmaker. I decided to do this turnrow because I really liked teaching the younger kids on our basketball team things that I know that they didn't, and seeing them get better using what I showed and what I hope these videos do for others as well.
-
-[Here's a link to the YouTube Channel](https://www.youtube.com/channel/UCa7s5uaoShmGx6VA7hWLNfg?view_as=subscriber)
+# The Space Pod - Podcast
+I created a podcast about astronomy. I worked on the art, recordings, research, and the editing. Everything in my podcast was done by me except for the music and sound effects. Two of the songs I have for my podcast were made by a fellow classmate whilst the other bits of music and sound effects I researched and used (all are not copyrighted). So starting off with the art I wanted to make a profile that was representing of my podcast style and something that would be somewhat memorable. So I went with pixel art! I really enjoyed making it and I’ve always loved the retro video game style art.
+As for recording at first I just used the sound booth we had at school and learned how to use the sound board so I could get my voice just right. I also learned the program adobe audition and consistently learned more and became familiar with the program itself. Later on things became harder as I got stuck in my house. I had to start recording from my phone which isn’t always the best. I would get under a cover and record myself, but I found the audio to be very inconsistent and the volume of my voice to vary in each clip. It made editing harder in some parts and I tried my best but in these more recent recordings there is some jumpy audio. Recording has been a learning process for me and I think I have learned the most from it and editing. Now for editing I had to make an intro, outro, and clip everything together. Editing is the longest process for me and the most time consuming. I had to cut the music and lower it throughout each section and make sure everything was pretty leveled. In editing I am proud of a lot of it, but I also think there is much room for improvement. The more I edit I start to notice small things in my past episodes and it makes me wanna go back and change them. And as for my most recent episode I completely scrapped it and started over cause I just didn’t feel like it was as good as my others. This made doing that episode a lot harder and it took up more time, but I think it is definitely better than before.
+Research was really fun for me because I enjoyed learning about our solar system and astronomy. I learned so much in this process about Neptune, Mars, spacecrafts, etc. I remember the whole reason I wanted to start a space podcast was because over the summer I had been so interested in space videos and looking into more about the universe itself. I am glad that at The Delta School I was able to turn it into something fun like a podcast and be able to teach others about our universe through my podcast as well as learn some things myself from doing so. In the future I think the work I’ve done for this could help because even if I don’t know what I wanna be when I grow up the amount of knowledge and skill I’ve gained from this could come in handy later in life. I know that I probably wanna go into a field similar to this and I think that I have the knowledge to be able to pursue and go even further.
 
 
+[Here's a link to the Podcast!](https://soundcloud.com/user-148714023)
 
-![Image of App](../assets/img/kiefer/bball1.png)
 
-
-![Image of App](../assets/img/kiefer/bball2.png)
+![Image of App](../assets/img/jake/podcast1.png)
