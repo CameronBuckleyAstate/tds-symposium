@@ -1,5 +1,5 @@
 logo: The Delta School # add logo name
-title: The Delta School Symposium
+title: The Delta School Showcase
 description: > # this means to ignore newlines until "baseurl:"
   Make. Discover. Grow.
 permalink: ':title/'
@@ -8,8 +8,8 @@ url: "https://cameronbuckleyastate.github.io" # the base hostname & protocol for
 
 # Banner settings
 video: HomePage.mp4 # add banner video. Add your video file to the folder video
-banner-title: The Delta School # add banner title
-banner-desc: 2020 High School Showcase # add banner description
+banner-title: High School Showcase # add banner title
+banner-desc: 2020 Virtual Edition # add banner description
 
 # Author settings
 author-pic:  # your photo
