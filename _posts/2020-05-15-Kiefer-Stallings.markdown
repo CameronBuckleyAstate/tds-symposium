@@ -4,7 +4,7 @@ title: "Kiefer Stallings"
 img: kiefer/post-img.png # Add image post (optional)
 date: 2020-05-15 12:55:00 +0300
 description: # Add post description (optional)
-tag: [Educational, Basketball, Entrepeneurship]
+tag: [Educational, Basketball, Entrepreneurship]
 ---
 # StartEd Up
 In this project I was supposed to make and publish an app for an event we were hosting. The app consisted of a schedule, overview, descriptions of the event, and photos and video of previous events similar. I chose to make an app because the previous semester I took the app design project. I used human centered design throughout this project by looking at how desirable certain features of my app were. This project can help me in the future if I ever decide to do any kinds of virtual design. In this project I mostly learned about designing apps, using specific color palettes, correct placement for pictures and text, and how to design certain features.
