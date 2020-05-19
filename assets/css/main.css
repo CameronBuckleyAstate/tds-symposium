@@ -210,6 +210,8 @@ audio:not([controls]) {
  * Remove the border on images inside links in IE 10-.
  */
 img {
+  max-width: 300px;
+  width: auto;
   border-style: none;
 }
 
@@ -4277,8 +4279,11 @@ cite {
 }
 
 .post header img {
-  width: 100%;
+  display: block;
   max-height: 500px;
+  max-width: 100%;
+  width: auto;
+  max-height: auto;
   vertical-align: middle;
 }
 
