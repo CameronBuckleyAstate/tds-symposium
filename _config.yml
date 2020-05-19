@@ -1,4 +1,4 @@
-logo: tds # add logo name
+logo: # add logo name
 title: The Delta School Symposium
 description: > # this means to ignore newlines until "baseurl:"
   Make. Discover. Grow.
@@ -9,13 +9,13 @@ url: "https://cameronbuckleyastate.github.io" # the base hostname & protocol for
 # Banner settings
 video: HomePage.mp4 # add banner video. Add your video file to the folder video
 banner-title: The Delta School # add banner title
-banner-desc: 2020 High School Symposium # add banner description
+banner-desc: 2020 High School Showcase # add banner description
 
 # Author settings
 author-pic:  # your photo
 author-name: # your name
 about-author: # about author
-email: cameron.buckley@thedelatschool.org # your email
+email:  # your email
 phone:  # your pnone number
 website: https://www.thedeltaschool.org # you website
 
