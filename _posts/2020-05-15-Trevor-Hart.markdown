@@ -22,7 +22,9 @@ I think that I’ve developed a lot of skills in the time that I’ve worked on 
 ![Image of App](../assets/img/trevor/t1.JPG)
 
 
-
 A lot of what I’ve done could prove very useful in the future. As I’ve stated, I have an interest in meteorology. After graduating high school, I hope to pursue a career in it. While this project might not be all about the science of meteorology, it exemplifies a want to learn about meteorological phenomena and an empathy for those influenced, both important attributes of a meteorologist. Also, interviewing and filmmaking are often involved in meteorology. If you watch the news, you’ll see that many meteorologists will actually go out and interview people who might have been involved in a natural disaster. Filmmaking is used to document storms in an effort to further our understanding of how the weather and its many tropes work. There are lots of meteorological positions that encase camera work. So, this entire project really does prepare me for a potential future career. Also, as stated previously, this project isn’t over, so what I’ve learned up to this point is going to be vital in creating something great in the future.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E2oDS4YPMg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Speaking of the future of the project, there are a lot of directions I can take it. While a documentary is likely, there are still a lot of other things that my newly developed skills can help me to create. For example, I’ve dwelled on the possibility of a podcast, a mini web series, or maybe even a website with lots of articles published by me. Regardless of what I end up doing, however, the goal will still remain the same. I want to support the Marshallese community and do what I can to help raise awareness to or combat the sea level rise problem that they’re facing and encourage others to do the same.
