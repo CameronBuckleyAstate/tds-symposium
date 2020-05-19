@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "John-Alan Adkisson"
+title: "John Alan Adkisson"
 img: ja/post-img.png # Add image post (optional)
 date: 2020-05-15 12:55:00 +0300
 description: # Add post description (optional)

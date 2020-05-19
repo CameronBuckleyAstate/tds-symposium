@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cass Bailey"
-img: cass/mural.JPG # Add image post (optional)
+img: cass/post-img.png # Add image post (optional)
 date: 2020-05-15 12:55:00 +0300
 description: # Add post description (optional)
 tag: [Art, Mural, Trashion]
