@@ -23,12 +23,12 @@ permalink: /tags/
 <!--  lists all posts corresponding to specific tag...-->
     {% for post in site.tags[this_word] %}{% if post.title != null %}
     <div class="tag_list">
-        <span><a href="{{ post.url }}">{{ post.title }}</a></span>
+        <span><a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a></span>
         <small><span>{{ post.date | date_to_string }}</span></small>
     </div>
     {% endif %}{% endfor %}
   {% endunless %}{% endfor %}
     <div class="back_to_home">
-        <a href="{{site.baseurl}}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Back</a>        
+        <a href="{{site.baseurl}}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Back</a>
     </div>
 </section>
