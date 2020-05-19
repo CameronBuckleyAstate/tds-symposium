@@ -4361,7 +4361,7 @@ cite {
   display: inline-block;
 }
 .post img {
-    max-width: 650px;
+    max-width: 85%;
     max-height: 500px;
     width: auto;
     height: auto;
