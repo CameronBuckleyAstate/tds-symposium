@@ -24,7 +24,7 @@ This project is an example of how project-learning at The Delta School is human-
 
 ![Image of App](../assets/img/bethany/app4.jpg)
 
-[**You can find the Junior Project Story here!**](../assets/downloads/bethjp.docx)
+[You can find the Junior Project Story here!](../assets/downloads/bethjp.docx)
 
 
 
@@ -37,4 +37,4 @@ I am now creating an Arabic podcast called [A Little Bit of Arabic](https://soun
 
 I do believe that this project will help me in the future as it has helped further my Arabic, something I am planning on majoring in when I get to college. The way that I was able to pivot my project also shows how human-centered TDS is. I recognized my lack of motivation and was able to turn my project around to something I knew I enjoyed, podcasting, while still keeping the same foundation the project was based upon.
 
-[**Click here to listen to A Little Bit of Arabic!**](https://soundcloud.com/bethany-white-244455993)
+[Click here to listen to A Little Bit of Arabic!](https://soundcloud.com/bethany-white-244455993)
