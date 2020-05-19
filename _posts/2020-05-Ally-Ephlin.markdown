@@ -2,7 +2,7 @@
 layout: post
 title: "Ally Ephlin"
 img: ally/post-img.jpg # Add image post (optional)
-date: 2020-05-15 12:55:00 +0300
+date: 2020-05 12:55:00 +0300
 description: # Add post description (optional)
 tag: [Entrepreneurship, Social Engagement, Organization]
 ---
