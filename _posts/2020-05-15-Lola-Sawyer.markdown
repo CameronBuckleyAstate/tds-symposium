@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lola Sawyer"
-img: evie/g1.gif # Add image post (optional)
+img: lola/post-img.jpg # Add image post (optional)
 date: 2020-05-15 12:55:00 +0300
 description: # Add post description (optional)
 tag: [Entrepreneurship, Cooking, Business Management]
