@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bethany White"
-img: strengths-discovery_0.jpg # Add image post (optional)
+img: arabic1.jpg # Add image post (optional)
 date: 2020-05-15 12:55:00 +0300
 description: # Add post description (optional)
 tag: [App Design, Language Learning, Performance]
