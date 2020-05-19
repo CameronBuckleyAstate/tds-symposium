@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bethany White"
-img: bethany/app3.png # Add image post (optional)
+img: bethany/post-img.png # Add image post (optional)
 date: 2020-05-15 12:55:00 +0300
 description: # Add post description (optional)
 tag: [App Design, Language Learning, Performance]
@@ -24,13 +24,17 @@ This project is an example of how project-learning at The Delta School is human-
 
 ![Image of App](../assets/img/bethany/app4.jpg)
 
+[**You can find the Junior Project Story here!**](../assets/downloads/bethjp.docx)
+
 
 
 # Arabic Project
 My Arabic project was one of my second-semester projects. It was originally my teachers’ idea, but I did embrace it due to my current study of the Arabic language. Initially, the Arabic project was to be a Jordanian Arabic Dictionary app. I myself am learning the Jordanian Arabic dialect and was more than willing to create a dictionary app for a dialect that was lacking such. I built a database of all the different, more essential words that would be included in the app along with the Arabic transliteration and Arabic written word form. I also partnered with two Jordanian boys that I connected with through my Arabic Global Online Academy teacher. Unfortunately, these two were unable to provide audio as originally planned although they did correct some of my spellings for words here and there. When COVID-19 pushed us all indoors, I continued working on my app as usual although I did begin to struggle with it since I had set it on the back burner while working on my junior project. After Apple rejected my junior project app for the second time, I realized that my Jordanian Arabic Dictionary App would most likely be rejected as well. So, with that in mind as well as the fact that I did not truly enjoy computer science as I had previously been inclined to believe, I pivot my project.
-I am now creating an Arabic podcast called A Little Bit of Arabic that is posted on SoundCloud. As I was a part of the DeltaCast podcast group the Upper School had last school year, I am fairly confident in the podcast realm. I currently have two episodes up and am planning on two more by the last week of school. This podcast gives cultural facts about Jordan, has me teach Arabic words, and, in the most recent episode, I tell an Arabic fable. I have been working on this with my cousin and best friend, Ally Ephlin, as a sort of co-host and occasional ‘answerer of questions’ when I have forgotten where something is located. I am proud of my little episodes, although the first one is not the best of the three as it took a bit to get back in the podcast groove of things. I’m looking forward to making the last episode and am seriously considering picking it back up in the fall once school begins because so that when I continue my Arabic studies I can continue to show it in podcast form.
+I am now creating an Arabic podcast called [A Little Bit of Arabic](https://soundcloud.com/bethany-white-244455993) that is posted on SoundCloud. As I was a part of the DeltaCast podcast group the Upper School had last school year, I am fairly confident in the podcast realm. I currently have two episodes up and am planning on two more by the last week of school. This podcast gives cultural facts about Jordan, has me teach Arabic words, and, in the most recent episode, I tell an Arabic fable. I have been working on this with my cousin and best friend, Ally Ephlin, as a sort of co-host and occasional ‘answerer of questions’ when I have forgotten where something is located. I am proud of my little episodes, although the first one is not the best of the three as it took a bit to get back in the podcast groove of things. I’m looking forward to making the last episode and am seriously considering picking it back up in the fall once school begins because so that when I continue my Arabic studies I can continue to show it in podcast form.
 
 ![Image of App](../assets/img/bethany/arabic1.png)
 
 
 I do believe that this project will help me in the future as it has helped further my Arabic, something I am planning on majoring in when I get to college. The way that I was able to pivot my project also shows how human-centered TDS is. I recognized my lack of motivation and was able to turn my project around to something I knew I enjoyed, podcasting, while still keeping the same foundation the project was based upon.
+
+[**Click here to listen to A Little Bit of Arabic!**](https://soundcloud.com/bethany-white-244455993)
