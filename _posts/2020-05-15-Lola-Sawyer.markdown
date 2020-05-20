@@ -8,7 +8,7 @@ tag: [Entrepreneurship, Cooking, Business Management]
 ---
 # Gralola
 
-Some people have asked me “What’s the point in selling granola?” “Are you even making money?” Throughout the process of making and selling graLola as a one person business I have learned more things than the money can make up for.
+Some people have asked me, “What’s the point in selling granola?” “Are you even making money?” Throughout the process of making and selling graLola as a one person business I have learned more things than the money can make up for.
 
 I am the only one who runs graLola, meaning I have all the roles of a business. Some of the roles are:
 

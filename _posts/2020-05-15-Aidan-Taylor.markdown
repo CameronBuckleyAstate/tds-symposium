@@ -7,19 +7,19 @@ description: # Add post description (optional)
 tag: [Design, Engineering, 3D Modeling]
 ---
 # Junior Project
-I created multiple drafts of legs that I sketched out to build for a rotating pool table. Once I had a design I liked and would work I created a 3D model of a rotating pool table with a billiards table on one side and shuffleboard on the other. I use a software called AutoDesk Fusion 360 which allows you to sketch and create any 2D or 3D model you want. Then I took my final design and uploaded it into a website called sketchfab where anyone can view it.
+I created multiple drafts of legs that I sketched out. Once I had a design I liked and would work I created a 3D model.  This model consisted of a rotating pool table with billiards on one side and shuffleboard on the other. I used a software called AutoDesk Fusion 360 which allows you to sketch and create any 2D or 3D model you want. Then I took my final design and uploaded it into a website called sketchfab where anyone can view it.
 
 ![Image of App](../assets/img/aidan/a2.jpg)
 
 
 I was the leader of my project since I was the only one in it. This was my junior project I designed myself for the first few months of school.
-I saw multiple opportunities to partner with new people and learn new skills I have yet to discover. It gave me the chance to partner with Engineers from Canada, work with a owner of a big billiards company, develop new skills in softwares such as Fusion 360, and further my understanding in development, critical thinking, and construction.
-his allowed me to reamp the project from last year and put my own spin on it.
+I saw multiple opportunities to partner with new people and learn new skills I have yet to discover. It gave me the chance to partner with Engineers from Canada, work with a owner of a big billiards company, and develop new skills in softwares such as Fusion 360. It also helped me further my understanding in development, critical thinking, and construction.
+This project had an How might we question. Which was “How might we reimagine the game of Billiards?” This allowed me to reamp the project from last year and put my own spin on it.
 
 ![Image of App](../assets/img/aidan/a3.jpg)
 
 
-This project has created new contacts for me if I ever need help on another project along with improving my skills in digital design if I decided I want to pursue that as a future career.
+This project has created new contacts for me.  These could be helpful if I ever need help on another project my senior year or in college.  Along with improving my skills in digital design if I decided I want to pursue that as a future career.
 I learned structural engineering, digital design, critical thinking, problem solving, pressure management, creativity, and communication skills.
 
 ![Image of App](../assets/img/aidan/a4.png)
