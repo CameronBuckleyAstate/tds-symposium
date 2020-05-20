@@ -15,7 +15,7 @@ If I ever need to design myself or an employer a graphic or flyer in the future 
 I learned empathy, and fast prototyping skills. I would always finish my designs ,but if my client didn’t like them I would quickly move on to a new design with the feedback they gave me in mind.
 
 ## Bethany's Junior Project icons
-For Bethany’s project she decided to create an app. The theme of the app was Murder Myestery and she need me to design her an icon for the app using the color pallete she chose. I had already made her a flyer for the app, so I decided to incorporate similar visuals. The main weapon of the app was guns so I decided to make the icon look like a gun firing off. The colors of the icon were a dark blue, deep red, light pink, and a darker shade of pink. My first prototype was good, but after a while of looking at it I decided to switch around the colors. Then Bethany chose to change the theme of her app to The Spanish Flu so she needed a new icon. I was asked to use the same color palette but change the gun to a facemask. The first one I made included red eyes and a mask, but I soon removed the eyes and added crease lines in the mask. I also was able to make a GIF of the gun icon using Photoshop.
+For Bethany’s project she decided to create an app. The theme of the app was Murder Mystery and she needed me to design her an icon for the app using the color pallete she chose. I had already made her a flyer for the app, so I decided to incorporate similar visuals. The main weapon of the app was guns so I decided to make the icon look like a gun firing off. The colors of the icon were a dark blue, deep red, light pink, and a darker shade of pink. My first prototype was good, but after a while of looking at it I decided to switch around the colors. Then Bethany chose to change the theme of her app to The Spanish Flu so she needed a new icon. I was asked to use the same color palette but change the gun to a facemask. The first one I made included red eyes and a mask, but I soon removed the eyes and added crease lines in the mask. I also was able to make a GIF of the gun icon using Photoshop.
 
 
 ![Image of App](../assets/img/evie/bw1.jpg)
@@ -61,8 +61,8 @@ For Delta Custom Woodworking they gave me a drawing of what they wanted the logo
 
 
 ## Delta School Clubs
-So far I have worked with two school clubs Robotics Club and Fitness Club. I needed to work with the leaders of the clubs to create logos.
-Robotics Club needed a logo that was colorful, whimsical, friendly, and should be compatible with younger students. So I created this cute colorful little robot act as the club's “mascot”. I also decided to make a GIF of the tiny robot’s light blinking.
+So far I have worked with two school clubs - Robotics Club and Fitness Club. I needed to work with the leaders of the clubs to create logos.
+Robotics Club needed a logo that was colorful, whimsical, friendly, and should be compatible with younger students. So I created this cute colorful little robot to act as the club's “mascot”. I also decided to make a GIF of the tiny robot’s light blinking.
 
 ![Image of App](../assets/img/evie/r1.jpg)
 
@@ -70,7 +70,7 @@ Robotics Club needed a logo that was colorful, whimsical, friendly, and should b
 ![Image of App](../assets/img/evie/r2.jpg.gif)
 
 
-For the Fitness club I made two different logos that could be used as a pair. One features a kettlebell with a blue background and the other has a dumbbell with a pink background.
+For the Fitness club I made two different logos that could be used as a pair. One features a kettlebell with a pink background and the other has a dumbbell with a blue background.
 
 ![Image of App](../assets/img/evie/fc1.jpg)
 ![Image of App](../assets/img/evie/fc2.jpg)
